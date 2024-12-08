@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photomath - Aprende Matemáticas con Tecnología</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            max-width: 900px;
+            margin: 2rem auto;
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #333;
+            color: white;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Photomath</h1>
+        <p>La herramienta educativa que revoluciona el aprendizaje de matemáticas</p>
+    </header>
+    <nav>
+        <a href="#definicion">Definición</a>
+        <a href="#creador">¿Quién lo creó?</a>
+        <a href="#funcionalidades">Funcionalidades</a>
+        <a href="#caracteristicas">Características</a>
+    </nav>
+    <section id="definicion">
+        <h2>1. Definición</h2>
+        <p>
+            Photomath es una aplicación móvil basada en inteligencia artificial que ayuda a resolver y aprender matemáticas. 
+            Con solo escanear un problema matemático, proporciona soluciones detalladas paso a paso, gráficos interactivos y 
+            explicaciones claras, haciéndola ideal para estudiantes, profesores y cualquier persona interesada en las matemáticas.
+        </p>
+    </section>
+    <section id="creador">
+        <h2>2. ¿Quién lo creó y en qué año?</h2>
+        <p>
+            Photomath fue creada en 2014 por <strong>Damir Sabol</strong>, un emprendedor croata. Inspirado por las dificultades 
+            que enfrentaban sus hijos al aprender matemáticas, Damir desarrolló esta herramienta educativa utilizando tecnología 
+            avanzada de reconocimiento óptico de caracteres (OCR).
+        </p>
+    </section>
+    <section id="funcionalidades">
+        <h2>3. Funcionalidades (¿Para qué se utiliza?)</h2>
+        <ul>
+            <li>Resolver problemas matemáticos al escanearlos con la cámara del dispositivo.</li>
+            <li>Proveer soluciones detalladas paso a paso para facilitar el aprendizaje.</li>
+            <li>Generar gráficos interactivos para visualizar ecuaciones y funciones.</li>
+            <li>Practicar problemas y reforzar conocimientos matemáticos.</li>
+            <li>Apoyar a padres y profesores en la enseñanza de matemáticas.</li>
+        </ul>
+    </section>
+    <section id="caracteristicas">
+        <h2>4. Características</h2>
+        <ul>
+            <li>Escaneo de problemas escritos a mano o impresos.</li>
+            <li>Soporte para múltiples áreas matemáticas como álgebra, cálculo, trigonometría y geometría.</li>
+            <li>Explicaciones claras y detalladas de los pasos.</li>
+            <li>Interfaz intuitiva y fácil de usar.</li>
+            <li>Gráficos interactivos para funciones y ecuaciones.</li>
+            <li>Compatible con múltiples idiomas.</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Información sobre Photomath. Diseñado para el aprendizaje interactivo.</p>
+    </footer>
+</body>
+</html>
